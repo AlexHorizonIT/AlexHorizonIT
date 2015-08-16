@@ -1,0 +1,16 @@
+h1 {text-align:right;color:orange;}
+em{background-color: green;color:white;}
+#allotment h2{color:orange;}
+#allotment .fruits-list{color:grey;font-weight: normal}
+#allotment ul{font-weight: bold}
+#allotment .vegetables-list {color:red;font-weight: normal}
+#warehouse h2{color:blue;}
+#warehouse ul{font-weight: bold;}
+#warehouse .fruits-list{color:green;font-weight: normal}
+#warehouse .vegetables-list{color:red;font-weight: normal}
+p:first-letter{color:red;font-size:30px;}
+
+.students-table thead{font-weight: bold;}
+.students-table tbody{background-color: green;color:white;}
+.students-table tbody td:first-child{background-color: white;color:orange;}
+
