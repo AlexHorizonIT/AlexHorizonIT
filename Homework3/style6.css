@@ -11,4 +11,4 @@ label[for="blue"] {color:blue;}
 #red:checked ~ span.red{display:none;}
 #blue:checked ~ span.blue {display: none;}
 #green:checked ~ span.green {display: none;}
-#red,#green,#blue {display:none;}
+#red,#green,#blue ~ [type="checkbox"] {display:none;}
